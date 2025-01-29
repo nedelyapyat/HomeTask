@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|c:\\users\\user\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|c:\\users\\user\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|c:\\users\\user\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|c:\\users\\user\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 january shapes.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3C59A7-3B47-4C7F-9C38-C6562047B267}|27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F.csproj|solutionrelative:27 \u044F\u043D\u0432\u0430\u0440\u044F\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs*",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:38:21.844Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAARwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:31:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs*",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:30:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:25:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Program.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Program.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIApwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:08:45.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Rectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIApwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:27:20.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Circle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:26:50.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Triangle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:27:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs",
+              "RelativeDocumentMoniker": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs",
+              "RelativeToolTip": "27 \u044F\u043D\u0432\u0430\u0440\u044F\\Shape.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:21:46.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

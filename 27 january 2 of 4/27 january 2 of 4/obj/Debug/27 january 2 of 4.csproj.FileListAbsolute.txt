@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\obj\Debug\27 january 2 of 4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\obj\Debug\27 january 2 of 4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\bin\Debug\27 january 2 of 4.exe.config
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\bin\Debug\27 january 2 of 4.exe
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\bin\Debug\27 january 2 of 4.pdb
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\obj\Debug\27 january 2 of 4.exe
+C:\Users\User\source\repos\27 january 2 of 4\27 january 2 of 4\obj\Debug\27 january 2 of 4.pdb

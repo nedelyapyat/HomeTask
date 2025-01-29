@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\27 января\27 января\bin\Debug\27 january shapes.exe.config
+C:\Users\User\source\repos\27 января\27 января\bin\Debug\27 january shapes.exe
+C:\Users\User\source\repos\27 января\27 января\bin\Debug\27 january shapes.pdb
+C:\Users\User\source\repos\27 января\27 января\obj\Debug\27 january shapes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\27 января\27 января\obj\Debug\27 january shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\27 января\27 января\obj\Debug\27 january shapes.exe
+C:\Users\User\source\repos\27 января\27 января\obj\Debug\27 january shapes.pdb

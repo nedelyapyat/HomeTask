@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|c:\\users\\user\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|solutionrelative:27 january 4 of 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|c:\\users\\user\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|solutionrelative:27 january 4 of 4\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|c:\\users\\user\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\monthlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|solutionrelative:27 january 4 of 4\\monthlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|c:\\users\\user\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|solutionrelative:27 january 4 of 4\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|c:\\users\\user\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E2DF05-811F-4D98-98BE-A6EC43FC19CF}|27 january 4 of 4\\27 january 4 of 4.csproj|solutionrelative:27 january 4 of 4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "27 january 4 of 4\\ContractEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\ContractEmployee.cs*",
+              "RelativeToolTip": "27 january 4 of 4\\ContractEmployee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:35:24.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonthlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\MonthlyEmployee.cs",
+              "RelativeDocumentMoniker": "27 january 4 of 4\\MonthlyEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\MonthlyEmployee.cs*",
+              "RelativeToolTip": "27 january 4 of 4\\MonthlyEmployee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:34:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "27 january 4 of 4\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\HourlyEmployee.cs*",
+              "RelativeToolTip": "27 january 4 of 4\\HourlyEmployee.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:34:01.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\Employee.cs",
+              "RelativeDocumentMoniker": "27 january 4 of 4\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\Employee.cs*",
+              "RelativeToolTip": "27 january 4 of 4\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:32:59.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\Program.cs",
+              "RelativeDocumentMoniker": "27 january 4 of 4\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\27 january 4 of 4\\27 january 4 of 4\\Program.cs*",
+              "RelativeToolTip": "27 january 4 of 4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:32:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
